@@ -1,0 +1,22 @@
+{
+    "name": "week-3-code-challenge",
+    "version": "1.0.0",
+    "description": "movie",
+    "main": "index.js",
+    "scripts": {
+      "test": "start"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BrianWahungu/week-3-code-challenge.git"
+    },
+    "keywords": [
+      "movie"
+    ],
+    "author": "Rachael NJoki",
+    "license": "MIT",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": ""
+  }
