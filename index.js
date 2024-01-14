@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const movieDetailsContainer = document.querySelector("#movieDetails");
   
     // Obtaining the film data. 
-    fetch("https://flatdango.vercel.app/db.json")
+    fetch("http://localhost:3000/films")
       .then((res) => res.json())
       .then((data) => {
         displayMoviesList(data.films);

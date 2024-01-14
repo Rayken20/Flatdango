@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/BrianWahungu/week-3-code-challenge.git"
+      "url": "https://github.com/Rayken20/Flatdango"
     },
     "keywords": [
       "movie"
@@ -16,7 +16,7 @@
     "author": "Rachael NJoki",
     "license": "MIT",
     "bugs": {
-      "url": ""
+     
     },
-    "homepage": ""
+    "homepage": "https://github.com/Rayken20"
   }
